@@ -1,0 +1,21 @@
+{
+	"spacing": {
+		"1": "var(--spacing-1, 0.25rem)",
+		"2": "var(--spacing-2, 0.5rem)",
+		"3": "var(--spacing-3, 0.75rem)",
+		"4": "var(--spacing-4, 1rem)",
+		"5": "var(--spacing-5, 1.25rem)",
+		"6": "var(--spacing-6, 1.5rem)",
+		"8": "var(--spacing-8, 2rem)",
+		"10": "var(--spacing-10, 2.5rem)",
+		"12": "var(--spacing-12, 3rem)",
+		"16": "var(--spacing-16, 4rem)",
+		"20": "var(--spacing-20, 5rem)",
+		"24": "var(--spacing-24, 6rem)",
+		"32": "var(--spacing-32, 8rem)",
+		"40": "var(--spacing-40, 10rem)",
+		"48": "var(--spacing-48, 12rem)",
+		"56": "var(--spacing-56, 14rem)",
+		"64": "var(--spacing-64, 16rem)"
+	}
+}
