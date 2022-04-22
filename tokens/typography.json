@@ -1,0 +1,80 @@
+{
+	"typography": {
+		"fontFamily": "var(--typography-data-large-font-family, \"Inter\", \"Noto Sans\", Helvetica, Arial, sans-serif)",
+		"heading-1": {
+			"fontWeight": "var(--typography-data-large-font-weight, 700)",
+			"fontSize": "var(--typography-heading-1-font-size, 2.125rem)",
+			"lineHeight": "var(--typography-heading-1-line-height, 2.625rem)",
+			"letterSpacing": "var(--typography-heading-1-letter-spacing, normal)"
+		},
+		"heading2": {
+			"fontWeight": "var(--typography-heading-2-font-weight, 700)",
+			"fontSize": "var(--typography-heading-2-font-size, 1.75rem)",
+			"lineHeight": "var(--typography-heading-2-line-height, 2.25rem)",
+			"letterSpacing": "var(--typography-heading-2-letter-spacing, normal)"
+		},
+		"heading3": {
+			"fontWeight": "var(--typography-heading-3-font-weight, 700)",
+			"fontSize": "var(--typography-heading-3-font-size, 1.375rem)",
+			"lineHeight": "var(--typography-heading-3-line-height, 1.875rem)",
+			"letterSpacing": "var(--typography-heading-3-letter-spacing, normal)"
+		},
+		"heading4": {
+			"fontWeight": "var(--typography-heading-4-font-weight, 600)",
+			"fontSize": "var(--typography-heading-4-font-size, 1.125rem)",
+			"lineHeight": "var(--typography-heading-4-line-height, 1.5rem)",
+			"letterSpacing": "var(--typography-heading-4-letter-spacing, normal)"
+		},
+		"heading5": {
+			"fontWeight": "var(--typography-heading-5-font-weight, 600)",
+			"fontSize": "var(--typography-heading-5-font-size, 1rem)",
+			"lineHeight": "var(--typography-heading-5-line-height, 1.5rem)",
+			"letterSpacing": "var(--typography-heading-5-letter-spacing, normal)"
+		},
+		"heading6": {
+			"fontWeight": "var(--typography-heading-6-font-weight, 700)",
+			"fontSize": "var(--typography-heading-6-font-size, 0.875rem)",
+			"lineHeight": "var(--typography-heading-6-line-height, 1.5rem)",
+			"letterSpacing": "var(--typography-heading-6-letter-spacing, normal)"
+		},
+		"paragraphIntroLede": {
+			"fontWeight": "var(--typography-paragraph-intro-lede-font-weight, 400)",
+			"fontSize": "var(--typography-paragraph-intro-lede-font-size, 1.25rem)",
+			"lineHeight": "var(--typography-paragraph-intro-lede-line-height, 1.875rem)",
+			"letterSpacing": "var(--typography-paragraph-intro-lede-letter-spacing, -0.5px)"
+		},
+		"paragraphBody": {
+			"fontWeight": "var(--typography-paragraph-body-font-weight, 400)",
+			"fontSize": "var(--typography-paragraph-body-font-size, 1rem)",
+			"lineHeight": "var(--typography-paragraph-body-line-height, 1.5rem)",
+			"letterSpacing": "var(--typography-paragraph-body-letter-spacing, normal)"
+		},
+		"paragraphSmall": {
+			"fontWeight": "var(--typography-paragraph-small-font-weight, 400)",
+			"fontSize-id": "--typography-paragraph-small-font-size",
+			"lineHeight": "var(--typography-paragraph-small-line-height, 1.125rem)",
+			"letterSpacing": "var(--typography-paragraph-small-letter-spacing, normal)"
+		},
+		"paragraphExtraSmall": {
+			"fontWeight": "var(--typography-paragraph-extra-small-font-weight, 400)",
+			"fontSize": "var(--typography-paragraph-extra-small-font-size, 0.75rem)",
+			"lineHeight": "var(--typography-paragraph-extra-small-line-height, 1.125rem)",
+			"letterSpacing": "var(--typography-paragraph-extra-small-letter-spacing, normal)"
+		},
+		"paragraphBold": {
+			"fontWeight": "var(--typography-paragraph-bold-font-weight, 600)"
+		},
+		"buttonPrimary": {
+			"fontWeight": "var(--typography-button-primary-font-weight, 700)",
+			"fontSize": "var(--typography-button-primary-font-size, 1.125rem)",
+			"lineHeight": "var(--typography-button-primary-line-height, 1.5rem)",
+			"letterSpacing": "var(--typography-button-primary-letter-spacing, normal)"
+		},
+		"buttonSecondary": {
+			"fontWeight": "var(--typography-button-secondary-font-weight, 500)",
+			"fontSize": "var(--typography-button-secondary-font-size, 1rem)",
+			"lineHeight": "var(--typography-button-secondary-line-height, 1.5rem)",
+			"letterSpacing": "var(--typography-button-secondary-letter-spacing, normal)"
+		}
+	}
+}
